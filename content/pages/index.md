@@ -288,8 +288,30 @@ sections:
       - title: Nettoyage des bâtiments
         tagline: This is the tagline
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          Nos services incluent :
+
+
+          *   Nettoyage des espaces communs (halls, couloirs, escaliers,
+          ascenseurs).
+
+
+          *   Entretien des vitrages, sols et façades.
+
+
+          *   Nettoyage des sanitaires 
+
+
+          *   Gestion des déchets 
+
+
+          Nous utilisons des équipements professionnels et des produits
+          écologiques pour garantir un nettoyage en profondeur tout en
+          respectant l'environnement. Que ce soit pour un entretien régulier ou
+          un nettoyage ponctuel après travaux ou événements. 
+
+
+          Chez **KSZ NETTOYAGE**
         image:
           url: /images/personne-utilise-balai-balai_1274269-152164.avif
           altText: Placeholder image
