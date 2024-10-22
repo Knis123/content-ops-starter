@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Optimisez votre temps de travail avec
       color: text-dark
       type: TitleBlock
     subtitle: KSZ NETTOYAGE
