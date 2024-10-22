@@ -8,8 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: >-
-    /images/femme-tient-produit-nettoyage-gants-chiffons-dans-bassin-mur-blanc_1150-21780.avif
+  url: /images/coup-moyen-personnes-nettoyant-batiment_23-2150454559.avif
   altText: Case study 3
   styles:
     self:
