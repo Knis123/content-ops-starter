@@ -50,7 +50,7 @@ sections:
         textDecoration: underline
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Avantage
       color: text-dark
       styles:
         self:
