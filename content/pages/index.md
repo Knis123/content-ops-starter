@@ -460,14 +460,6 @@ sections:
           borderWidth: 1
           borderRadius: large
       type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: saliparis77@gmail.com
     badge:
       label: Contactez-nous
       color: text-primary
