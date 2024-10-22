@@ -206,11 +206,26 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      **KSZ NETTOYAGE**  est une entreprise spécialisée dans les services de
+      nettoyage professionnels, dédiée à offrir des solutions complètes et sur
+      mesure pour tous types d'espaces. Que ce soit pour des bureaux, des locaux
+      commerciaux, des bâtiments industriels ou des résidences, notre équipe
+      d'experts garantit un environnement propre et sain, répondant aux normes
+      les plus strictes de l'industrie.
+
+
+      Nous utilisons des équipements modernes et des produits respectueux de
+      l'environnement afin d'assurer une propreté impeccable tout en préservant
+      la santé et la sécurité de nos clients. Que ce soit pour des interventions
+      ponctuelles, des nettoyages en profondeur ou un entretien régulier, **KSZ
+      NETTOYAGE**  s'engage à fournir un service rapide, fiable et personnalisé.
+
+
+      Notre priorité est de dépasser vos attentes en matière de propreté et de
+      vous offrir un cadre de vie ou de travail agréable et sain. Faites
+      confiance au **KSZ NETTOYAGE** pour une propreté irréprochable au
+      quotidien.
     actions: []
     media:
       title: Title of the video
