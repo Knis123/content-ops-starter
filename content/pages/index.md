@@ -435,7 +435,7 @@ sections:
         url: /saliparis77@gmail.com
         showIcon: true
         icon: send
-        iconPosition: left
+        iconPosition: right
         style: secondary
         elementId: ''
 seo:
