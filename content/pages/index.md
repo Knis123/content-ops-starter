@@ -91,7 +91,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 20x
-        subtitle: The Job Stuff
+        subtitle: Plus d'Efficacité
         text: >
           Grâce à notre expertise et notre équipement moderne, nous réalisons un
           travail rapide et minutieux, vous permettant de profiter d'un
