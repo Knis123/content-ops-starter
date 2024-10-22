@@ -333,11 +333,18 @@ sections:
       - title: Nettoyage des chantiers
         tagline: This is the tagline
         subtitle: ''
-        text: >+
-          Nos services de nettoyage de chantiers incluent 
+        text: >
+          Nos services de nettoyage de chantiers incluent
 
 
-          *     **Nettoyage des surfaces**
+          *   **Enlèvement des débris**
+
+
+          Collecte et élimination des gravats, débris de construction, bois,
+          métal, et autres matériaux restants.
+
+
+          *   **Nettoyage des surfaces** 
 
 
           Balayage et lavage des sols, des murs, des fenêtres et autres surfaces
@@ -345,21 +352,21 @@ sections:
           colle.
 
 
-          *    **Gestion des déchets**
+          *   **Gestion des déchets**
 
 
           Tri des déchets pour recyclage et élimination conforme aux
           réglementations locales.
 
 
-          *    **Nettoyage en profondeur**
+          *   **Nettoyage en profondeur**
 
 
           Utilisation de produits spécialisés pour désinfecter et dégraisser
           certaines surfaces (sanitaires, cuisines, etc.).
 
 
-          *    **Finition**
+          *   **Finition**
 
 
           Mise en état finale des lieux, préparant l’espace à être occupé ou
@@ -369,7 +376,6 @@ sections:
           Ces services de nettoyage permettent de laisser un chantier propre,
           sécurisé et prêt pour l'usage final ou les prochaines étapes du
           projet.
-
         image:
           url: >-
             /images/homme-joyeux-dans-gants-coton-nettoyant-carreaux-sol-exterieurs_259150-52702.jpg
