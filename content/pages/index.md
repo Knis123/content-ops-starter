@@ -416,16 +416,15 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >+
+    text: >
+      ***Vous avez des questions ou souhaitez obtenir un devis pour nos services
+      de nettoyage ?***
 
 
-      Vous avez des questions ou souhaitez obtenir un devis pour nos services de
-      nettoyage ?
+      N'hésitez pas à nous contacter !
 
-       N'hésitez pas à nous contacter !
 
-      Nous sommes à votre disposition pour répondre à toutes vos demandes. 
-
+      Nous sommes à votre disposition pour répondre à toutes vos demandes.
     media:
       fields:
         - name: name
