@@ -87,4 +87,4 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-L'efficacité dans le nettoyage repose sur plusieurs principes clés : 1. \*\*Planification\*\* : Établir un plan de nettoyage qui identifie les tâches à accomplir et leur ordre peut grandement améliorer l'efficacité. 
+L'efficacité dans le nettoyage repose sur plusieurs principes clés numéro un c'est la Planification , Établir un plan de nettoyage qui identifie les tâches à accomplir et leur ordre peut grandement améliorer l'efficacité.
