@@ -30,7 +30,8 @@ bottomSections:
         tagline: ''
         subtitle: ''
         image:
-          url: /images/telus-logo.svg
+          url: >-
+            /images/salvador-bahia-bresil-09-fevrier-2018-employes-mairie-salvador-nettoyant-rues-apres-nuit-du-carnaval-dans-ville_676921-16907.avif
           altText: Company logo
           styles:
             self:
