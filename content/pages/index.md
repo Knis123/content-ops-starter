@@ -250,7 +250,8 @@ sections:
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
-          url: /images/abstract-feature1.svg
+          url: >-
+            /images/femme-gant-caoutchouc-nettoyage-fenetre-eponge_23-2148464995.avif
           altText: Placeholder Image
           styles:
             self:
