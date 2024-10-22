@@ -8,10 +8,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: KSZ NETTOYAGE
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      <div style="text-align: left">***Notre entreprise de nettoyage vous assure
+      des services professionnels et rapides . Chaque intervention est
+      minutieusement planifiée pour garantir une propreté impeccable . faites
+      confiance à nos équipes qualifiées pour un environnement toujours sain et
+      accueillant.***</div>
+
     actions:
       - label: Get started
         altText: ''
