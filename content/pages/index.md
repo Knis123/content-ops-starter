@@ -117,10 +117,10 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Plus Rapide
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Notre approche optimisée nous permet de réduire le temps de nettoyage
+          tout en maintenant des standards élevés. Vous pouvez compter sur nous
+          pour des résultats rapides et efficaces .
         image:
           url: /images/icon3.svg
           altText: Featured icon three
