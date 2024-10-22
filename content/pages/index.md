@@ -16,7 +16,7 @@ sections:
       accueillant.***</div>
 
     actions:
-      - label: See Tutorials
+      - label: voir nos services
         altText: ''
         url: /
         showIcon: true
