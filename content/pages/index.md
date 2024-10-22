@@ -344,7 +344,7 @@ sections:
           métal, et autres matériaux restants.
 
 
-          *   **Nettoyage des surfaces** 
+          *   **Nettoyage des surfaces**
 
 
           Balayage et lavage des sols, des murs, des fenêtres et autres surfaces
@@ -376,6 +376,9 @@ sections:
           Ces services de nettoyage permettent de laisser un chantier propre,
           sécurisé et prêt pour l'usage final ou les prochaines étapes du
           projet.
+
+
+          Chez **KSZ NETTOAYGE**
         image:
           url: >-
             /images/homme-joyeux-dans-gants-coton-nettoyant-carreaux-sol-exterieurs_259150-52702.jpg
