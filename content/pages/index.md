@@ -435,16 +435,7 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
-    actions:
-      - type: Link
-        label: Send
-        altText: ''
-        url: /saliparis77@gmail.com
-        showIcon: true
-        icon: send
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
