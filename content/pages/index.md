@@ -431,7 +431,7 @@ sections:
     actions:
       - type: Link
         label: Send
-        altText: Send
+        altText: envoyé
         url: /saliparis77@gmail.com
         showIcon: true
         icon: send
