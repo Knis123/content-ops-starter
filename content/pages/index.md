@@ -436,7 +436,7 @@ sections:
         showIcon: true
         icon: send
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
 seo:
   metaTitle: Home - Demo site
