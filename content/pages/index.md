@@ -245,28 +245,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: ''
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      url: >-
-        /images/homme-joyeux-dans-gants-coton-nettoyant-carreaux-sol-exterieurs_259150-52702.jpg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: voici un badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
   - type: CarouselSection
     title: null
     subtitle: What our customers say about us
