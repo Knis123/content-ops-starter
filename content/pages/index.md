@@ -258,7 +258,8 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: >-
+        /images/homme-joyeux-dans-gants-coton-nettoyant-carreaux-sol-exterieurs_259150-52702.jpg
       altText: Dope design preview
       type: ImageBlock
     badge:
