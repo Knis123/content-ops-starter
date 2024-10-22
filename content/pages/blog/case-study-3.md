@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: >-
-    /images/img-placeholder.svg
+    /images/femme-tient-produit-nettoyage-gants-chiffons-dans-bassin-mur-blanc_1150-21780.avif
   altText: Case study 3
   styles:
     self:
