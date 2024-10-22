@@ -236,7 +236,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: List of features here
+      text: Nos services et fonctionnalités !
       color: text-primary
       styles:
         self:
