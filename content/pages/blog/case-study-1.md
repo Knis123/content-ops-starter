@@ -1,5 +1,5 @@
 ---
-title: Case 1
+title: propreté !
 slug: case-study-1
 date: '2024-01-05'
 excerpt: >-
