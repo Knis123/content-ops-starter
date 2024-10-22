@@ -61,10 +61,13 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Espaces Nettoyés
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Nous sommes à votre service !
+
+
+          Nous nous engageons à offrir un nettoyage de qualité supérieure. Notre
+          équipe utilise des produits écologiques et des méthodes efficaces pour
+          garantir la propreté de vos espaces .
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
