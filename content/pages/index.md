@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Optimisez votre temps de travail avec
+      text: Optimisez votre temps de travail avec ksz nettoyage !
       color: text-dark
       type: TitleBlock
     subtitle: KSZ NETTOYAGE
