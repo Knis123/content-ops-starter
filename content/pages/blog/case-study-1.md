@@ -30,7 +30,8 @@ bottomSections:
         tagline: ''
         subtitle: ''
         image:
-          url: /images/abstract-background.svg
+          url: >-
+            /images/femme-tient-produit-nettoyage-gants-chiffons-dans-bassin-mur-blanc_1150-21780.avif
           altText: Company logo
           styles:
             self:
