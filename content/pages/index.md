@@ -241,14 +241,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: ''
-    actions:
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+    actions: []
     media:
       url: >-
         /images/homme-joyeux-dans-gants-coton-nettoyant-carreaux-sol-exterieurs_259150-52702.jpg
