@@ -242,7 +242,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items:
       - title: Nettoyage domicile
         tagline: This is the tagline
