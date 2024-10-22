@@ -4,25 +4,19 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Optimisez votre temps de travail
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    subtitle: KSZ NETTOYAGE
+    text: >+
+      <div style="text-align: left">***Notre entreprise de nettoyage vous assure
+      des services professionnels et rapides . Chaque intervention est
+      minutieusement planifiée pour garantir une propreté impeccable . faites
+      confiance à nos équipes qualifiées pour un environnement toujours sain et
+      accueillant.***</div>
+
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: See Tutorials
+      - label: voir nos services
         altText: ''
         url: /
         showIcon: true
@@ -32,12 +26,12 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/logo-service-nettoyage-dessine-main_52683-78852.avif
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: voici un badge
       color: text-primary
       type: Badge
     elementId: ''
@@ -51,23 +45,29 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+      subtitle:
+        fontWeight: 700
+        textDecoration: underline
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Avantage Clés
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ksz nettoyage
     items:
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Espaces Nettoyés
+        text: >
+          Nous sommes à votre service !
+
+
+          Nous nous engageons à offrir un nettoyage de qualité supérieure. Notre
+          équipe utilise des produits écologiques et des méthodes efficaces pour
+          garantir la propreté de vos espaces .
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -91,11 +91,11 @@ sections:
             self:
               borderRadius: x-large
       - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Plus d'Efficacité
+        text: >
+          Grâce à notre expertise et notre équipement moderne, nous réalisons un
+          travail rapide et minutieux, vous permettant de profiter d'un
+          environnement impeccable sans attendre .
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -116,11 +116,11 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Plus Rapide
+        text: >
+          Notre approche optimisée nous permet de réduire le temps de nettoyage
+          tout en maintenant des standards élevés. Vous pouvez compter sur nous
+          pour des résultats rapides et efficaces .
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -139,7 +139,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Commencez dés maintenant
         altText: ''
         url: /
         showIcon: false
@@ -149,7 +149,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Ceci est un badge
       color: text-primary
       styles:
         self:
@@ -168,37 +168,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
@@ -228,89 +197,36 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: Grow your business 10x faster
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
-    badge:
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: KSZ NETTOYAGE
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: >
+      **KSZ NETTOYAGE**  est une entreprise spécialisée dans les services de
+      nettoyage professionnels, dédiée à offrir des solutions complètes et sur
+      mesure pour tous types d'espaces. Que ce soit pour des bureaux, des locaux
+      commerciaux, des bâtiments industriels ou des résidences, notre équipe
+      d'experts garantit un environnement propre et sain, répondant aux normes
+      les plus strictes de l'industrie.
+
+
+      Nous utilisons des équipements modernes et des produits respectueux de
+      l'environnement afin d'assurer une propreté impeccable tout en préservant
+      la santé et la sécurité de nos clients. Que ce soit pour des interventions
+      ponctuelles, des nettoyages en profondeur ou un entretien régulier, **KSZ
+      NETTOYAGE**  s'engage à fournir un service rapide, fiable et personnalisé.
+
+
+      Notre priorité est de dépasser vos attentes en matière de propreté et de
+      vous offrir un cadre de vie ou de travail agréable et sain. Faites
+      confiance au **KSZ NETTOYAGE** pour une propreté irréprochable au
+      quotidien.
     actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
     elementId: null
     colors: bg-light-fg-dark
     styles:
@@ -320,275 +236,6 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
-      color: text-dark
-      type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
-  - type: CarouselSection
-    title: null
-    subtitle: What our customers say about us
-    items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: John Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-    elementId: null
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - title:
       text: List of features here
       color: text-primary
       styles:
@@ -597,13 +244,31 @@ sections:
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
-      - title: Feature Item One
+      - title: Nettoyage domicile
         tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        subtitle: ''
+        text: >+
+          Nous offrons une gamme complète de services, allant du nettoyage de
+          routine aux nettoyages en profondeur, incluant :
+
+
+          *   Nettoyage des sols, des meubles et des salles de bains
+
+
+          *   Entretien des salles de bain et des cuisines.
+
+
+          *   Lavage des vitres et gestion des déchets.
+
+
+          *   Nettoyage après déménagement, rénovation ou événements spéciaux.
+
+
+          Chez **KSZ NETTOYAGE**
+
         image:
-          url: /images/abstract-feature1.svg
+          url: >-
+            /images/femme-gant-caoutchouc-nettoyage-fenetre-eponge_23-2148464995.avif
           altText: Placeholder Image
           styles:
             self:
@@ -620,13 +285,35 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Nettoyage des bâtiments
         tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        subtitle: ''
+        text: >
+          Nos services incluent :
+
+
+          *   Nettoyage des espaces communs (halls, couloirs, escaliers,
+          ascenseurs).
+
+
+          *   Entretien des vitrages, sols et façades.
+
+
+          *   Nettoyage des sanitaires 
+
+
+          *   Gestion des déchets 
+
+
+          Nous utilisons des équipements professionnels et des produits
+          écologiques pour garantir un nettoyage en profondeur tout en
+          respectant l'environnement. Que ce soit pour un entretien régulier ou
+          un nettoyage ponctuel après travaux ou événements. 
+
+
+          Chez **KSZ NETTOYAGE**
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/personne-utilise-balai-balai_1274269-152164.avif
           altText: Placeholder image
           styles:
             self:
@@ -643,13 +330,58 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Nettoyage des chantiers
         tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+        subtitle: ''
+        text: >
+          Nos services de nettoyage de chantiers incluent
+
+
+          *   **Enlèvement des débris**
+
+
+          Collecte et élimination des gravats, débris de construction, bois,
+          métal, et autres matériaux restants.
+
+
+          *   **Nettoyage des surfaces**
+
+
+          Balayage et lavage des sols, des murs, des fenêtres et autres surfaces
+          pour éliminer la poussière, la saleté et les traces de peinture ou de
+          colle.
+
+
+          *   **Gestion des déchets**
+
+
+          Tri des déchets pour recyclage et élimination conforme aux
+          réglementations locales.
+
+
+          *   **Nettoyage en profondeur**
+
+
+          Utilisation de produits spécialisés pour désinfecter et dégraisser
+          certaines surfaces (sanitaires, cuisines, etc.).
+
+
+          *   **Finition**
+
+
+          Mise en état finale des lieux, préparant l’espace à être occupé ou
+          utilisé immédiatement.
+
+
+          Ces services de nettoyage permettent de laisser un chantier propre,
+          sécurisé et prêt pour l'usage final ou les prochaines étapes du
+          projet.
+
+
+          Chez **KSZ NETTOAYGE**
         image:
-          url: /images/abstract-feature1.svg
+          url: >-
+            /images/homme-joyeux-dans-gants-coton-nettoyant-carreaux-sol-exterieurs_259150-52702.jpg
           altText: Placeholder image
           styles:
             self:
@@ -680,15 +412,19 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: KSZ Nettoyage
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: >
+      ***Vous avez des questions ou souhaitez obtenir un devis pour nos services
+      de nettoyage ?***
+
+
+      N'hésitez pas à nous contacter !
+
+
+      Nous sommes à votre disposition pour répondre à toutes vos demandes.
     media:
       fields:
         - name: name
@@ -733,7 +469,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: Contactez-nous
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark

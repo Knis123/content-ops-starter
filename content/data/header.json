@@ -4,14 +4,16 @@
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "Tarifs",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -28,7 +30,7 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "Carrières",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
@@ -37,7 +39,7 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "Menu déroulant",
             "altText": "Dropdown",
             "links": [
                 {
@@ -71,8 +73,8 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
-            "altText": "Sign up",
+            "label": "S'inscrire",
+            "altText": "S'inscrire",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -80,7 +82,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Se connecter",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
