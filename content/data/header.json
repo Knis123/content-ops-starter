@@ -74,7 +74,7 @@
     "secondaryLinks": [
         {
             "label": "S'inscrire",
-            "altText": "Sign up",
+            "altText": "S'inscrire",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
