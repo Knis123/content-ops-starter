@@ -197,52 +197,14 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - type: GenericSection
-    title:
-      text: KSZ NETTOYAGE
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      **KSZ NETTOYAGE**  est une entreprise spécialisée dans les services de
-      nettoyage professionnels, dédiée à offrir des solutions complètes et sur
-      mesure pour tous types d'espaces. Que ce soit pour des bureaux, des locaux
-      commerciaux, des bâtiments industriels ou des résidences, notre équipe
-      d'experts garantit un environnement propre et sain, répondant aux normes
-      les plus strictes de l'industrie.
-
-
-      Nous utilisons des équipements modernes et des produits respectueux de
-      l'environnement afin d'assurer une propreté impeccable tout en préservant
-      la santé et la sécurité de nos clients. Que ce soit pour des interventions
-      ponctuelles, des nettoyages en profondeur ou un entretien régulier, **KSZ
-      NETTOYAGE**  s'engage à fournir un service rapide, fiable et personnalisé.
-
-
-      Notre priorité est de dépasser vos attentes en matière de propreté et de
-      vous offrir un cadre de vie ou de travail agréable et sain. Faites
-      confiance au **KSZ NETTOYAGE** pour une propreté irréprochable au
-      quotidien.
-    actions: []
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - title:
-      text: List of features here
+      text: Nos services et fonctionnalités !
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items:
       - title: Nettoyage domicile
         tagline: This is the tagline
@@ -467,13 +429,13 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: null
     badge:
       label: Contactez-nous
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    actions: []
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
