@@ -416,11 +416,16 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+
+      Vous avez des questions ou souhaitez obtenir un devis pour nos services de
+      nettoyage ?
+
+       N'hésitez pas à nous contacter !
+
+      Nous sommes à votre disposition pour répondre à toutes vos demandes. 
+
     media:
       fields:
         - name: name
