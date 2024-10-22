@@ -247,8 +247,25 @@ sections:
       - title: Nettoyage domicile
         tagline: This is the tagline
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          Nous offrons une gamme complète de services, allant du nettoyage de
+          routine aux nettoyages en profondeur, incluant :
+
+
+          *   Nettoyage des sols, des meubles et des salles de bains
+
+
+          *   Entretien des salles de bain et des cuisines.
+
+
+          *   Lavage des vitres et gestion des déchets.
+
+
+          *   Nettoyage après déménagement, rénovation ou événements spéciaux.
+
+
+          Chez **KSZ NETTOYAGE**
+
         image:
           url: >-
             /images/femme-gant-caoutchouc-nettoyage-fenetre-eponge_23-2148464995.avif
