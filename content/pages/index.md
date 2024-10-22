@@ -330,7 +330,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Nettoyage des chantiers
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
