@@ -205,7 +205,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: ''
     text: >
       **KSZ NETTOYAGE**  est une entreprise spécialisée dans les services de
       nettoyage professionnels, dédiée à offrir des solutions complètes et sur
