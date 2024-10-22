@@ -39,7 +39,7 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "Menu déroulent",
             "altText": "Dropdown",
             "links": [
                 {
